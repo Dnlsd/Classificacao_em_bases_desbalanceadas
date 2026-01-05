@@ -54,7 +54,7 @@ Nosso segundo objetivo é **explorar e discutir**  métodos alternativos de limp
 1. Faça o clone do repositório que será criado a partir deste modelo.
 
     ```bash
-    git clone 
+    git clone git@github.com:Dnlsd/Classificacao_em_bases_desbalanceadas.git
     ```
 
 2. importe o ambiente virtual semelhante ao utilizado.
