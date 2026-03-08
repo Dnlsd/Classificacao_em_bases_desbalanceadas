@@ -109,7 +109,7 @@ Nosso segundo objetivo é **explorar e discutir**  métodos alternativos de limp
 ## Notebooks de referência
 
 Análise Exploratória dos dados e discussão inicial: [EDA](notebooks/01_EDA_Mult_Var.ipynb).<br>
-Criação do modelo e discussão do projeto: [Modelo Principal](notebooks/02_Modelos_Mult_Var.ipynb).
+Criação do modelo e discussão do projeto: [Modelo Principal](notebooks/02_Modelos_Mult_Var_SAMPLES.ipynb).
 
 # Crétidos
 ## Modelo de projeto de ciência de dados
